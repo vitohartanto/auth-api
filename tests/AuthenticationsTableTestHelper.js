@@ -27,5 +27,3 @@ const AuthenticationsTableTestHelper = {
 };
 
 module.exports = AuthenticationsTableTestHelper;
-
-// Test
