@@ -27,3 +27,5 @@ const AuthenticationsTableTestHelper = {
 };
 
 module.exports = AuthenticationsTableTestHelper;
+
+// Last forever
