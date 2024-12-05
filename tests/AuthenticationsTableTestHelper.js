@@ -28,4 +28,4 @@ const AuthenticationsTableTestHelper = {
 
 module.exports = AuthenticationsTableTestHelper;
 
-// Last forever
+// Last forevera
