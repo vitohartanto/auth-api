@@ -32,5 +32,3 @@ const UsersTableTestHelper = {
 };
 
 module.exports = UsersTableTestHelper;
-
-# write the function that calculates the average of some values in the array
